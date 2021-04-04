@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "923958792037",
+    "firebase_url": "https://my-inventory-app-2c6a9-default-rtdb.firebaseio.com",
+    "project_id": "my-inventory-app-2c6a9",
+    "storage_bucket": "my-inventory-app-2c6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923958792037:android:4c9d0584d34c7f22169b8c",
+        "android_client_info": {
+          "package_name": "com.app.myfirebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923958792037-2qc3gqdrerdf2dinlsms07414mc3r4pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRkWxYsrzET0dTHhuxmNi0cGMtN_hnw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923958792037-2qc3gqdrerdf2dinlsms07414mc3r4pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923958792037:android:a13ca370e19fdfa1169b8c",
+        "android_client_info": {
+          "package_name": "com.zybooks.mystorageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923958792037-2qc3gqdrerdf2dinlsms07414mc3r4pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRkWxYsrzET0dTHhuxmNi0cGMtN_hnw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923958792037-2qc3gqdrerdf2dinlsms07414mc3r4pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
